@@ -1,0 +1,16 @@
+{
+    "faqs": [
+        {
+            "question": "What is the return policy?",
+            "answer": "Our return policy allows returns within 30 days of purchase with a receipt."
+        },
+        {
+            "question": "How can I track my order?",
+            "answer": "You can track your order using the tracking number provided in your order confirmation email."
+        },
+        {
+            "question": "What payment methods are accepted?",
+            "answer": "We accept Visa, MasterCard, American Express, and PayPal."
+        }
+    ]
+}
